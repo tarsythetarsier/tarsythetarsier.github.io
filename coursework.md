@@ -23,5 +23,3 @@ layout: home
 - **PHYSICS 7B:** Electricity and Magnetism
 - **PHYSICS 7A:** Mechanics
 - **CE 11:** Engineered Systems and Sustainability
-
-{: .note} (!) indicates that I am currently taking the course.
