@@ -3,7 +3,10 @@ description: Evan Wong Personal Website
 theme: null
 remote_theme: just-the-docs/just-the-docs@main
 
-url: https://tarsythetarsier.github.io
+plugins:
+  - jekyll-remote-theme
+
+url: https://evanzwong.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
