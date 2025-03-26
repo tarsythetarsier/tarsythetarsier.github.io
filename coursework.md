@@ -24,5 +24,5 @@ layout: home
 - **PHYSICS 7A:** Mechanics
 - **CE 11:** Engineered Systems and Sustainability
 
-<blockquote title="Blockquote title">
-  <p>Note: (!) indicates classes that I'm currently taking
+{: .note}
+(!) indicates that I am currently taking the course.
