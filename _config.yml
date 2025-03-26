@@ -8,8 +8,6 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Enable callouts
-enable_callouts: true
-
 callouts:
   note:
     title: Note
