@@ -24,6 +24,4 @@ layout: home
 - **PHYSICS 7A:** Mechanics
 - **CE 11:** Engineered Systems and Sustainability
 
-{% callout note %}
-(!) indicates that I am currently taking the course.
-{% endcallout %}
+{: .note} (!) indicates that I am currently taking the course.
