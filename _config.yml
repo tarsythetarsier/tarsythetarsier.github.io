@@ -1,19 +1,8 @@
-plugins:
-  - jekyll-remote-theme
-
 title: Evan Z Wong
 description: Evan Wong Personal Website
-theme: null
-remote_theme: just-the-docs/just-the-docs@main
+theme: just-the-docs
 
 url: "https://evanzwong.github.io"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-enable_callouts: true
-
-callouts:
-  note:
-    title: Note
-    color: grey
