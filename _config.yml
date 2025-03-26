@@ -6,7 +6,7 @@ remote_theme: just-the-docs/just-the-docs@main
 plugins:
   - jekyll-remote-theme
 
-url: https://evanzwong.github.io
+url: "https://evanzwong.github.io"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
