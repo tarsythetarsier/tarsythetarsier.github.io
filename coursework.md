@@ -15,7 +15,7 @@ layout: home
 - **EECS 16B:** Introduction to Circuits & Devices (!)
 - **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing
 
-### MISC:
+### Miscellaneous:
 - **ENGIN 157AC:** Engineering, The Environment, and Society (!)
 - **CS 195:** Social Implications of Computer Technology
 - **MATH 54:** Linear Algebra & Differential Equations
@@ -23,3 +23,7 @@ layout: home
 - **PHYSICS 7B:** Electricity and Magnetism
 - **PHYSICS 7A:** Mechanics
 - **CE 11:** Engineered Systems and Sustainability
+
+<blockquote title="Blockquote title">
+  <p>**Note:** (!) indicates classes that I'm currently taking>
+</blockquote>
