@@ -25,5 +25,4 @@ layout: home
 - **CE 11:** Engineered Systems and Sustainability
 
 <blockquote title="Blockquote title">
-  <p>**Note:** (!) indicates classes that I'm currently taking>
-</blockquote>
+  <p>Note: (!) indicates classes that I'm currently taking
