@@ -6,9 +6,3 @@ url: https://tarsythetarsier.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-# Enable callouts
-callouts:
-  note:
-    title: Note
-    color: grey
