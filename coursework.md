@@ -24,4 +24,4 @@ layout: home
 - **PHYSICS 7A:** Mechanics
 - **CE 11:** Engineered Systems and Sustainability
 
-<pre><code>{% raw %} {% callout note %} (!) indicates I am currently taking the course. {% endcallout %} {% endraw %}</code></pre>
+{: .note} Testing
